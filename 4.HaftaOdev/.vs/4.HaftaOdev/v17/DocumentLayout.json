@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\4.HaftaOdev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66E98FCA-9DE0-44CD-860D-89C63D35D087}|AdresDefteriS\u0131n\u0131f\u0131\\AdresDefteriS\u0131n\u0131f\u0131.csproj|c:\\users\\m.tar\u0131k meng\u00FC\u00E7\\source\\repos\\4.haftaodev\\adresdefteris\u0131n\u0131f\u0131\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E98FCA-9DE0-44CD-860D-89C63D35D087}|AdresDefteriS\u0131n\u0131f\u0131\\AdresDefteriS\u0131n\u0131f\u0131.csproj|solutionrelative:adresdefteris\u0131n\u0131f\u0131\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E98FCA-9DE0-44CD-860D-89C63D35D087}|AdresDefteriS\u0131n\u0131f\u0131\\AdresDefteriS\u0131n\u0131f\u0131.csproj|c:\\users\\m.tar\u0131k meng\u00FC\u00E7\\source\\repos\\4.haftaodev\\adresdefteris\u0131n\u0131f\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E98FCA-9DE0-44CD-860D-89C63D35D087}|AdresDefteriS\u0131n\u0131f\u0131\\AdresDefteriS\u0131n\u0131f\u0131.csproj|solutionrelative:adresdefteris\u0131n\u0131f\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE94E9DB-1E01-4602-A469-CDA8BF0A4437}|AracKiralamaS\u0131n\u0131f\u0131\\AracKiralamaS\u0131n\u0131f\u0131.csproj|c:\\users\\m.tar\u0131k meng\u00FC\u00E7\\source\\repos\\4.haftaodev\\arackiralamas\u0131n\u0131f\u0131\\kiralikarac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE94E9DB-1E01-4602-A469-CDA8BF0A4437}|AracKiralamaS\u0131n\u0131f\u0131\\AracKiralamaS\u0131n\u0131f\u0131.csproj|solutionrelative:arackiralamas\u0131n\u0131f\u0131\\kiralikarac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE94E9DB-1E01-4602-A469-CDA8BF0A4437}|AracKiralamaS\u0131n\u0131f\u0131\\AracKiralamaS\u0131n\u0131f\u0131.csproj|c:\\users\\m.tar\u0131k meng\u00FC\u00E7\\source\\repos\\4.haftaodev\\arackiralamas\u0131n\u0131f\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE94E9DB-1E01-4602-A469-CDA8BF0A4437}|AracKiralamaS\u0131n\u0131f\u0131\\AracKiralamaS\u0131n\u0131f\u0131.csproj|solutionrelative:arackiralamas\u0131n\u0131f\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD21B23-BF5E-4EDE-892A-7A63B3869515}|\u00DCr\u00FCn\\\u00DCr\u00FCn.csproj|c:\\users\\m.tar\u0131k meng\u00FC\u00E7\\source\\repos\\4.haftaodev\\\u00FCr\u00FCn\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD21B23-BF5E-4EDE-892A-7A63B3869515}|\u00DCr\u00FCn\\\u00DCr\u00FCn.csproj|solutionrelative:\u00FCr\u00FCn\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD21B23-BF5E-4EDE-892A-7A63B3869515}|\u00DCr\u00FCn\\\u00DCr\u00FCn.csproj|c:\\users\\m.tar\u0131k meng\u00FC\u00E7\\source\\repos\\4.haftaodev\\\u00FCr\u00FCn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD21B23-BF5E-4EDE-892A-7A63B3869515}|\u00DCr\u00FCn\\\u00DCr\u00FCn.csproj|solutionrelative:\u00FCr\u00FCn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 274,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kisi.cs",
+              "DocumentMoniker": "C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\4.HaftaOdev\\AdresDefteriS\u0131n\u0131f\u0131\\Kisi.cs",
+              "RelativeDocumentMoniker": "AdresDefteriS\u0131n\u0131f\u0131\\Kisi.cs",
+              "ToolTip": "C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\4.HaftaOdev\\AdresDefteriS\u0131n\u0131f\u0131\\Kisi.cs",
+              "RelativeToolTip": "AdresDefteriS\u0131n\u0131f\u0131\\Kisi.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:50:33.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\4.HaftaOdev\\AdresDefteriS\u0131n\u0131f\u0131\\Program.cs",
+              "RelativeDocumentMoniker": "AdresDefteriS\u0131n\u0131f\u0131\\Program.cs",
+              "ToolTip": "C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\4.HaftaOdev\\AdresDefteriS\u0131n\u0131f\u0131\\Program.cs",
+              "RelativeToolTip": "AdresDefteriS\u0131n\u0131f\u0131\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:50:17.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KiralikArac.cs",
+              "DocumentMoniker": "C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\4.HaftaOdev\\AracKiralamaS\u0131n\u0131f\u0131\\KiralikArac.cs",
+              "RelativeDocumentMoniker": "AracKiralamaS\u0131n\u0131f\u0131\\KiralikArac.cs",
+              "ToolTip": "C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\4.HaftaOdev\\AracKiralamaS\u0131n\u0131f\u0131\\KiralikArac.cs",
+              "RelativeToolTip": "AracKiralamaS\u0131n\u0131f\u0131\\KiralikArac.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:49:31.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\4.HaftaOdev\\AracKiralamaS\u0131n\u0131f\u0131\\Program.cs",
+              "RelativeDocumentMoniker": "AracKiralamaS\u0131n\u0131f\u0131\\Program.cs",
+              "ToolTip": "C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\4.HaftaOdev\\AracKiralamaS\u0131n\u0131f\u0131\\Program.cs",
+              "RelativeToolTip": "AracKiralamaS\u0131n\u0131f\u0131\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:49:03.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\4.HaftaOdev\\\u00DCr\u00FCn\\Urun.cs",
+              "RelativeDocumentMoniker": "\u00DCr\u00FCn\\Urun.cs",
+              "ToolTip": "C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\4.HaftaOdev\\\u00DCr\u00FCn\\Urun.cs",
+              "RelativeToolTip": "\u00DCr\u00FCn\\Urun.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:47:32.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\4.HaftaOdev\\\u00DCr\u00FCn\\Program.cs",
+              "RelativeDocumentMoniker": "\u00DCr\u00FCn\\Program.cs",
+              "ToolTip": "C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\4.HaftaOdev\\\u00DCr\u00FCn\\Program.cs",
+              "RelativeToolTip": "\u00DCr\u00FCn\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:47:04.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 126,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
